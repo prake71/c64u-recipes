@@ -16,6 +16,15 @@ This button is called the *MultiButton*, because it handles several functions.
 * *Freeze*: Hold the button and briefly tap on the RESTORE key to get into the freeze function of the selected utility cartridge.
 * *Config Reset*: With the machine switched off, press the RESTORE key and keep it pressed. Then turn the U64 on by briefly pressing the button.
   
+## How to enhance the disk drive speed
+You can install Jiffy-DOS ROMs. Jiffy-DOS consists out of a ROM for the disk drive and for the C64U itself. The original kernel of the drive and the U64 have to be replaced by the Jiffy-DOS ROMs.
+
+Jiffy-DOS ROMs can be purchased by the license holder at https://store.go4retro.com
+The standard edition was enough for me. You will get a zip-file which contains *JiffyDOS_1541-II_6.00.bin* and *JiffyDOS_C64_6.01.bin*.
+These files have to be copied into the Flash folder of your C64Ultimate.
+Under 'Memory and ROMs" in the Ultimate Menu you can assign these ROMs to the C64 Kernal and to the 1541's firmware.
+That's it!
+
 
 
 	
