@@ -30,6 +30,10 @@ Under 'Memory and ROMs" in the Ultimate Menu you can assign these ROMs to the C6
 
 That's it!
 
+## How to remote control my C64U?
+There is a commandline interface for PC which uses the C64 Ultimate's REST API. For this the your Ultimate has to be integrated into your network and its network servcices need to be enabled. 
+This is also very handy when it comes to cross-development. 
+You can find everything  about *c64u - Commodore C64 Ultimate CLI* at [github.com/cybersorcerer/c64u](https://github.com/cybersorcerer/c64u).
 
 
 	
