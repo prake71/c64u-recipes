@@ -35,7 +35,18 @@ There is a commandline interface for PC which uses the C64 Ultimate's REST API. 
 This is also very handy when it comes to cross-development. 
 You can find everything  about *c64u - Commodore C64 Ultimate CLI* at [github.com/cybersorcerer/c64u](https://github.com/cybersorcerer/c64u).
 
+## Proper Scanlines on CheckMate Monitor
+When using the C64 Ultimate with a Checkmate IPS Retro Monitor via HDMI, the scanlines can sometimes look uneven or overly artificial. This is usually not a flaw of the scanline feature itself, but a result of how the monitor scales the incoming HDMI signal.
 
+The solution is to use the monitor’s Point‑to‑Point (PtP) display mode.
+
+On the Checkmate monitor, select Point‑to‑Point (PtP) as the scaling mode. This disables internal upscaling and ensures that the HDMI signal is displayed pixel‑accurately.
+
+On the C64 Ultimate, set the HDMI output resolution to 1280×1024.
+
+With this combination, the image fills the screen nicely while each pixel is mapped 1:1. As a result, the scanlines are evenly distributed and the overall image looks calm and natural, without the uneven or “synthetic” appearance seen with other scaling modes.
+
+For me, this setup provides the best balance between screen usage, sharpness, and authentic scanline appearance when using HDMI.
 	
 
 
