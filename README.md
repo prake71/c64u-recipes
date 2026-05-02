@@ -48,6 +48,10 @@ With this combination, the image fills the screen nicely while each pixel is map
 
 For me, this setup provides the best balance between screen usage, sharpness, and authentic scanline appearance when using HDMI.
 	
+## Where to download latest patches for the C64U firmware?
+Goto https://commodore.net/downloads/
+
+
 
 
 
