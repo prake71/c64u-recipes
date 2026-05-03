@@ -51,6 +51,13 @@ For me, this setup provides the best balance between screen usage, sharpness, an
 ## Where to download latest patches for the C64U firmware?
 Goto https://commodore.net/downloads/
 
+## Where to find more information about the unofficial Spiffy patch
+Goto https://github.com/spiffycrew/Spiffy_Ultimate
+
+## Teletext with the Ultimate
+https://github.com/fputmango/Teletext64U/tree/main
+
+
 
 
 
