@@ -54,6 +54,8 @@ Goto https://commodore.net/downloads/
 ## Where to find more information about the unofficial Spiffy patch
 Goto https://github.com/spiffycrew/Spiffy_Ultimate
 
+The Spiffy Patch for the Commodore 64 Ultimate is a community-developed software extension that adds useful additional features such as enhanced search results, Assembly65 integration, and a shortcut disable function. It is available in both a temporary (SoftPatch) and a permanent (FlashPatch) version.
+
 ## Teletext with the Ultimate
 https://github.com/fputmango/Teletext64U/tree/main
 
