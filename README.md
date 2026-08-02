@@ -64,7 +64,7 @@ You have to activate network in general and the web remote control service.
 
 The web remote control service on the Commodore 64 Ultimate allows you to manage and interact with your device using a standard web browser on your local network. It provides features like running programs, playing SID music, and changing system settings.
 
-Suppose, your are in the same network as your C64U, just type http://<yourC64Uip>
+Suppose, your are in the same network as your C64U, just type `http://<yourC64Uip>`
 
 ## Are there alternative front-ends for the web remote control service?
 Yes, there are alternatives:
