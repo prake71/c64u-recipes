@@ -59,9 +59,17 @@ The Spiffy Patch for the Commodore 64 Ultimate is a community-developed software
 ## Teletext with the Ultimate
 https://github.com/fputmango/Teletext64U/tree/main
 
+## How to access my C64U with a browser
+You have to activate network in general and the web remote control service.
 
+The web remote control service on the Commodore 64 Ultimate allows you to manage and interact with your device using a standard web browser on your local network. It provides features like running programs, playing SID music, and changing system settings.
 
+## Are there alternative front-end for the web remote control service?
+Yes, there are alternatives:
 
+https://github.com/sandlbn/ultimate64-manager
+
+https://github.com/EdyJ/c64u-control-panel
 
 
 
