@@ -68,9 +68,11 @@ The web remote control service on the Commodore 64 Ultimate allows you to manage
 Yes, there are alternatives:
 
 https://github.com/sandlbn/ultimate64-manager
+
 This is a desktop app which can be built for most of the mainstream operating systems.
 
 https://github.com/EdyJ/c64u-control-panel
+
 This is a more lightweight alternative as you only need a browser on your client.
 
 
